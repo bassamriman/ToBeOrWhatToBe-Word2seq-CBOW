@@ -1,0 +1,6 @@
+nltk
+torch
+numpy
+dill
+tqdm
+torchtext
